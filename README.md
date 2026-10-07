@@ -2,7 +2,7 @@
 
 A three-pages website built with semantic HTML and CSS
 
-##Pages 
+## Pages 
 - index.html: home page
 - about.html: skills list and courses
 
